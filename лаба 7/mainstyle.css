@@ -1,0 +1,239 @@
+.logoandname{
+    background-image: url(./img/фон.jpg);
+    background-size: 100%;
+    size: 185px;
+}
+
+.ivilogo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 79px;
+    height: 115px;
+    padding-top: 30px;
+}
+
+H1{
+    top: 20px;
+    font-weight: 80;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    color: #2a282c;
+    text-transform: uppercase;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.links{
+    width: 100%;
+}
+
+.minilogos{
+    position: relative;
+    display: flex;
+    justify-content: left;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    float: left;
+    width: auto;
+    margin-bottom: 5px;
+}
+
+
+.minilogo{
+    padding-left: 15px;
+}
+
+
+.reg{
+    position: relative;
+    display: flex;
+    justify-content: right;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    width: auto;
+    text-decoration: none;
+    color:black;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    font-size: large;
+    margin-bottom: 5px;
+}
+
+
+
+header {
+    font-family: 'Ubuntu Condensed', sans-serif;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: x-large;
+}
+
+
+.navi{
+    padding-left: 10px;
+    padding-right: 10px ;
+    text-decoration: none;
+    color:blueviolet;
+    width: max-content;
+    background-color: rgb(255, 255, 255);
+    text-transform: uppercase;
+}
+
+
+.navi:hover{
+    padding-left: 10px;
+    padding-right: 10px ;
+    text-decoration: none;
+    color: #2a282c;
+    width: max-content;
+    background-color: rgb(255, 255, 255);
+}
+
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+
+.vibor{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-transform: uppercase;
+    /* padding: 60px 0 0 calc((100% - 305px)/2); */
+}
+
+
+
+.tovary{
+    padding-top: 40px;
+    width: 210px;
+    height: 250px;
+    margin: 10px 0;
+    padding: 0px;
+    border: 1px solid #2a282c;
+    background: rgb(242, 242, 242);
+}
+
+
+.imgtv{
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 210px;
+    height: 225px;
+}
+
+
+.names{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;   
+    margin: 0 auto;
+    text-align: center; 
+}
+
+
+.textimg1{
+    width: 150px;
+    height: 150px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    vertical-align: middle;
+}
+
+.text1{
+display: flex;
+justify-content: center;
+padding-top: 30px;
+width: 95%;
+height: auto;
+
+
+}
+
+
+.history{
+    padding-left: 20px;
+}
+
+
+.textimg2{
+    height: 150px;
+    width: 150px;
+    padding-top: 60px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.text2{
+display: flex;
+justify-content: center;
+width: 95%;
+height: auto;
+display: flex;
+padding-top: 30px;
+}
+
+.textwph{
+    background: rgb(242, 242, 242);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+h3{
+    font-family: 'Ubuntu Condensed', sans-serif;
+    text-align: center;
+    
+}
+.wrapper{
+    position: relative;
+    height: 374px;
+    width: 420px;
+}
+.slider{
+    display:flex;
+    position: relative;
+    width: 100%;
+}
+
+.risunok{
+    float:left;
+    width: auto;
+}
+.risss{
+    
+    width: 400px;
+    height: 374px;
+}
+.newmodel{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-top:  40px;
+}
+.slider_item{
+    text-align: center;
+    width: 100%;
+    height: 374px;
+    left: 40px;
+}
+.minislide{
+    text-align: center;
+    height: 374px;
+    width: 100%;
+}
